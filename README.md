@@ -41,3 +41,4 @@ A4) 2426
 You will do a first-pass assessment of the segmentation output by analyzing the size of the particles using Python...  
 
 Open the [SizeAnalysis.ipynb](SizeAnalysis.ipynb) file and follow instructions in that file (you will be plotting a histogram of the sizes of the segmented objects and describing the output).  
+[Results.csv](https://github.com/VU-CSP/improc_assignment-sydneythompsonn/files/10905311/Results.csv)
